@@ -3,7 +3,7 @@ TM 만든 JS를 테스트 해봅시다.
 
 ## Teachable Machine에서 사물인식 프로그램을 만들었습니다.
 ### 웹캠을 이용해 주변 사물을 TM에 업로드하여 학습시킵닏.
-[!image1](images/TM_01.png)
+![image1](images/TM_01.png)
 ## vsCode에서 TM 머신에서 다운받은 프로그램을 실행시킬 준비를 합니다.
 ### 가상환경은 파이썬 3.9버전으로 만들었습니다
 '''
@@ -20,4 +20,4 @@ pip install -r requirement.txt
 python appTM.py
 '''
 ## 실행 화면입니다.
-[!image2](images/실행결과.png)
+![image2](images/실행결과.png)
